@@ -1,0 +1,217 @@
+[
+ {
+  "name": "zeros",
+  "file": "01_zeros.csv",
+  "rmse": 0.107246299,
+  "date": "2026-10-10"
+ },
+ {
+  "name": "const010",
+  "file": "02_const_0.10.csv",
+  "rmse": 0.097675731,
+  "date": "2026-10-10"
+ },
+ {
+  "name": "combined_v1",
+  "file": "06_combined_v1.csv",
+  "rmse": 0.128830806,
+  "date": "2026-10-10"
+ },
+ {
+  "name": "roads_v1",
+  "file": "04_roads_only.csv",
+  "rmse": 0.14968988,
+  "date": "2026-10-10"
+ },
+ {
+  "name": "places_v1",
+  "file": "05_places_only.csv",
+  "rmse": 0.248178497,
+  "date": "2026-10-10"
+ },
+ {
+  "name": "tier3",
+  "file": "12_tier3_public_levels.csv",
+  "rmse": 0.085619108,
+  "date": "2026-10-11"
+ },
+ {
+  "name": "buildings_usfs",
+  "file": "07_buildings_only.csv",
+  "rmse": 0.114677123,
+  "date": "2026-10-11"
+ },
+ {
+  "name": "grp_no_route",
+  "file": "13_group_no_route_road.csv",
+  "rmse": 0.111193701,
+  "date": "2026-10-11"
+ },
+ {
+  "name": "grp_eastern_ok",
+  "file": "14_group_eastern_ok.csv",
+  "rmse": 0.086593474,
+  "date": "2026-10-11"
+ },
+ {
+  "name": "blend_ridge_d2",
+  "file": "17_blend_ridge.csv",
+  "rmse": 0.082698641,
+  "date": "2026-10-11",
+  "note": "predicted 0.0761"
+ },
+ {
+  "name": "groups_plus_roads",
+  "file": "19_groups_plus_roads.csv",
+  "rmse": 0.0804216,
+  "date": "2026-10-13"
+ },
+ {
+  "name": "grp_sctx",
+  "file": "2x_group_south-central-tx.csv",
+  "rmse": 0.124636713,
+  "date": "2026-10-13"
+ },
+ {
+  "name": "grp_maricopa",
+  "file": "2x_group_maricopa-az.csv",
+  "rmse": 0.101062138,
+  "date": "2026-10-13"
+ },
+ {
+  "name": "grp_ncal",
+  "file": "2x_group_northern-ca.csv",
+  "rmse": 0.091943894,
+  "date": "2026-10-13"
+ },
+ {
+  "name": "grp_roadsgap_nonok",
+  "file": "22_group_roads_gap_non_ok.csv",
+  "rmse": 0.089897371,
+  "date": "2026-10-13"
+ },
+ {
+  "name": "v4_cells_roads",
+  "file": "31_cells_plus_roads.csv",
+  "rmse": 0.080592807,
+  "date": "2026-10-14"
+ },
+ {
+  "name": "grp_rgv",
+  "file": "35_group_rio_grande_valley.csv",
+  "rmse": 0.09066399,
+  "date": "2026-10-14"
+ },
+ {
+  "name": "grp_tier_nonok",
+  "file": "32_group_tier_outside_ok.csv",
+  "rmse": 0.089615014,
+  "date": "2026-10-14"
+ },
+ {
+  "name": "grp_tx_roadsgap",
+  "file": "33_group_tx_roads_gap.csv",
+  "rmse": 0.090293096,
+  "date": "2026-10-14"
+ },
+ {
+  "name": "v5_tier_roads",
+  "file": "36_v5_tier_roads.csv",
+  "rmse": 0.079859224,
+  "date": "2026-10-14"
+ },
+ {
+  "name": "grp_no_school",
+  "file": "40_group_no_school_poi.csv",
+  "rmse": 0.098350699,
+  "date": "2026-10-15"
+ },
+ {
+  "name": "grp_low_pph",
+  "file": "41_group_low_places_per_home.csv",
+  "rmse": 0.103679196,
+  "date": "2026-10-15"
+ },
+ {
+  "name": "grp_urban_no_fire",
+  "file": "42_group_urban_no_fire.csv",
+  "rmse": 0.125598841,
+  "date": "2026-10-15"
+ },
+ {
+  "name": "grp_large_pop",
+  "file": "43_group_large_pop.csv",
+  "rmse": 0.097684218,
+  "date": "2026-10-15"
+ },
+ {
+  "name": "grp_high_svi",
+  "file": "44_group_high_svi.csv",
+  "rmse": 0.106548862,
+  "date": "2026-10-15"
+ },
+ {
+  "name": "structA",
+  "file": "55_structural_A.csv",
+  "rmse": 0.082163431,
+  "date": "2026-10-16"
+ },
+ {
+  "name": "blend_v5_structA",
+  "file": "57_blend_v5_structA.csv",
+  "rmse": 0.078476462,
+  "date": "2026-10-16",
+  "note": "predicted 0.0785"
+ },
+ {
+  "name": "structB",
+  "file": "56_structural_B_fixed_roads.csv",
+  "rmse": 0.082477948,
+  "date": "2026-10-16"
+ },
+ {
+  "name": "blend_v5_A_B",
+  "file": "58_blend_v5_A_B.csv",
+  "rmse": 0.077690376,
+  "date": "2026-10-16",
+  "note": "predicted 0.0777"
+ },
+ {
+  "name": "struct_poi",
+  "file": "59_struct_poi_part.csv",
+  "rmse": 0.087475362,
+  "date": "2026-10-16"
+ },
+ {
+  "name": "structD",
+  "file": "61_structural_D_roads_part.csv",
+  "rmse": 0.082039549,
+  "date": "2026-10-19"
+ },
+ {
+  "name": "structC",
+  "file": "60_structural_C_regional_roads.csv",
+  "rmse": 0.080703916,
+  "date": "2026-10-19"
+ },
+ {
+  "name": "structG",
+  "file": "64_structural_G_roads06.csv",
+  "rmse": 0.087179234,
+  "date": "2026-10-19"
+ },
+ {
+  "name": "blend_v5_A_B_G",
+  "file": "65_blend_v5_A_B_G.csv",
+  "rmse": 0.077023367,
+  "date": "2026-10-19",
+  "note": "predicted 0.0768"
+ },
+ {
+  "name": "blend_wide_d7",
+  "file": "66_blend_wide.csv",
+  "rmse": 0.076845896,
+  "date": "2026-10-19",
+  "note": "predicted 0.0766"
+ }
+]
